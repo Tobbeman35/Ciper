@@ -7,15 +7,15 @@ body {
 .impacttext1{
   color: white;
   position: absolute;
-  left: 190px;
-  top: 260px;
+  left: 210px;
+  top: 253px;
   z-index: 0;
 }
 .impacttext2{
   color: white;
   position: absolute;
-  left: 170px;
-  top: 270px;
+  left: 152px;
+  top: 279px;
   z-index: 0;
 }
 .ikoner{
