@@ -4,8 +4,18 @@
 body {
   font-size: 14px;
 }
-
-
+.impacttext1{
+  position: absolute;
+  left: 150px;
+  top: 250px;
+  z-index: 0;
+}
+.impacttext2{
+  position: absolute;
+  left: 140px;
+  top: 250px;
+  z-index: 0;
+}
 .ikoner{
     position: absolute;
     width: 90px;
